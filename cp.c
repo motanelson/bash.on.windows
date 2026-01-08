@@ -33,7 +33,7 @@ int main(int argc , char *argv[]){
             perror(argv[1]);
             return 1;
         }
-        if(f1==NULL){
+        if(f2==NULL){
             perror(argv[2]);
             return 1;
         }
