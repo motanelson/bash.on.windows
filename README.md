@@ -11,3 +11,4 @@ compile: gcc -o out out.c
 
 run : ./out 1 2 3
 
+
